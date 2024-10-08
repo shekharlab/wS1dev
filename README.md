@@ -1,7 +1,7 @@
 # Molecular states underlying neuronal cell type development and plasticity in the whisker cortex
 
 
-This respository contains all of the code used to analyze snRNA-seq data from the study [_Molecular states underlying neuronal cell type development and plasticity in the whisker cortex_]([url](https://www.biorxiv.org/content/10.1101/2024.10.07.617106v1)). All of the outputs have been cleared to make the files <25MB for GitHub upload. Notebooks with full outputs can be found here: https://drive.google.com/drive/folders/1-mZdY1pc3NT2rcrwFW3I-bH6lykzn0KU?usp=sharing
+This respository contains all of the code used to analyze snRNA-seq data from the study Molecular states underlying neuronal cell type development and plasticity in the whisker cortex. [All](https://www.biorxiv.org/content/10.1101/2024.10.07.617106v1) of the outputs have been cleared to make the files <25MB for GitHub upload. Notebooks with full outputs can be found here: https://drive.google.com/drive/folders/1-mZdY1pc3NT2rcrwFW3I-bH6lykzn0KU?usp=sharing
 
 All of the finalized datasets associated with the study can be found here: https://drive.google.com/drive/folders/1xcCARVoPE9cPhbTT8ko7rz-RKfE07X-q?usp=sharing. Note that these h5ad files contain normalized, log-transformed data as described in the manuscript. If you are interested in raw counts, see the folder "Raw_Counts_Samples" at the above link.
 
